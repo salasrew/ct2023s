@@ -103,11 +103,11 @@
   <rect x="20" y="70" width="2.7680" height="2.7680" stroke="blue" stroke-width="0.1" fill="none"/>
   <text x="20.2" y="72.25" style="font-size:1.8pt;;" fill="blue">買</text>
   <rect x="20" y="72.768" width="2.7680" height="2.7680" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="20.2" y="75.018" style="font-size:1.8pt;;" fill="blue">低</text>
+  <text x="20.2" y="75.018" style="font-size:1.8pt;;" fill="blue">高</text>
   <rect x="20" y="75.536" width="2.7680" height="2.7680" stroke="blue" stroke-width="0.1" fill="none"/>
   <text x="20.2" y="77.786" style="font-size:1.8pt;;" fill="blue">賣</text>
   <rect x="20" y="78.304" width="2.7680" height="2.7680" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="20.2" y="80.554" style="font-size:1.8pt;;" fill="blue">高</text>
+  <text x="20.2" y="80.554" style="font-size:1.8pt;;" fill="blue">低</text>
   <rect x="20" y="81.072" width="2.7680" height="2.7680" stroke="blue" stroke-width="0.1" fill="none"/>
   <text x="20.2" y="83.322" style="font-size:1.8pt;;" fill="red">套</text>
   <rect x="20" y="83.840" width="2.7680" height="2.7680" stroke="blue" stroke-width="0.1" fill="none"/>
